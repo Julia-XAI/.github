@@ -23,8 +23,8 @@ Please contact us if you want your package to be included in this organization.
 [docs-expl]: https://julia-xai.github.io/ExplainableAI.jl/stable/
 
 [repo-expl]: https://github.com/Julia-XAI/ExplainableAI.jl
-[repo-txth]: https://github.com/Julia-XAI/VisionHeatmaps.jl
-[repo-vish]: https://github.com/Julia-XAI/TextHeatmaps.jl/
+[repo-txth]: https://github.com/Julia-XAI/TextHeatmaps.jl/
+[repo-vish]: https://github.com/Julia-XAI/VisionHeatmaps.jl
 
 [rel-bdg-expl]: https://juliahub.com/docs/General/ExplainableAI/stable/version.svg
 [rel-url-expl]: https://github.com/Julia-XAI/ExplainableAI.jl/releases
@@ -35,10 +35,10 @@ Please contact us if you want your package to be included in this organization.
 
 [ci-bdg-expl]: https://github.com/Julia-XAI/ExplainableAI.jl/workflows/CI/badge.svg
 [ci-url-expl]: https://github.com/Julia-XAI/ExplainableAI.jl/actions
-[ci-bdg-vish]: https://github.com/Julia-XAI/VisionHeatmaps.jl/workflows/CI/badge.svg
-[ci-url-vish]: https://github.com/Julia-XAI/VisionHeatmaps.jl/actions
 [ci-bdg-txth]: https://github.com/Julia-XAI/TextHeatmaps.jl/workflows/CI/badge.svg
 [ci-url-txth]: https://github.com/Julia-XAI/TextHeatmaps.jl/actions
+[ci-bdg-vish]: https://github.com/Julia-XAI/VisionHeatmaps.jl/workflows/CI/badge.svg
+[ci-url-vish]: https://github.com/Julia-XAI/VisionHeatmaps.jl/actions
 
 [cov-bdg-expl]: https://codecov.io/gh/Julia-XAI/ExplainableAI.jl/branch/master/graph/badge.svg
 [cov-url-expl]: https://codecov.io/gh/Julia-XAI/ExplainableAI.jl
