@@ -22,7 +22,7 @@ Please contact us if you want your package to be included in this organization.
 | Name                           | Latest release                           | Status                                                                      | Summary                                       |
 |:-------------------------------|:-----------------------------------------|:----------------------------------------------------------------------------|:----------------------------------------------| 
 | [ExplainableAI.jl][repo-expl]  | [![Release][rel-bdg-expl]][rel-url-expl] | [![CI][ci-bdg-expl]][ci-url-expl] [![Coverage][cov-bdg-expl]][cov-url-expl] | Collection of Explainable AI methods in Julia |
-| [XAIBase.jl][repo-expl]        |                                          | [![CI][ci-bdg-base]][ci-url-base] [![Coverage][cov-bdg-base]][cov-url-base] | Core package defining the Julia-XAI interface |
+| [XAIBase.jl][repo-base]        |                                          | [![CI][ci-bdg-base]][ci-url-base] [![Coverage][cov-bdg-base]][cov-url-base] | Core package defining the Julia-XAI interface |
 | [TextHeatmaps.jl][repo-txth]   | [![Release][rel-bdg-txth]][rel-url-txth] | [![CI][ci-bdg-txth]][ci-url-txth] [![Coverage][cov-bdg-txth]][cov-url-txth] | Heatmaps for language models                  |
 | [VisionHeatmaps.jl][repo-vish] |                                          | [![CI][ci-bdg-vish]][ci-url-vish] [![Coverage][cov-bdg-vish]][cov-url-vish] | Heatmaps for vision models                    |
 
